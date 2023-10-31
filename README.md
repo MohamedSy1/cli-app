@@ -6,3 +6,7 @@
 - installed `prompt-sync`
 - made a `src` folder and a `src/index.js` file
 - made "start" script in `package.json`
+
+
+
+
